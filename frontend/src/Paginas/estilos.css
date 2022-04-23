@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: #aefb2a;
+    background-image:url('https://images.pexels.com/photos/705771/pexels-photo-705771.jpeg');
+}
+.card{
+    display: flex;
+  width: 100%;
+}
+main{
+    max-width: 800px;
+    width: 90%;
+    margin: auto;
+    padding: 40px;
+}
+.FormLabel{
+    border-style: dashed;
+    border-radius: 10px;
+
+}
